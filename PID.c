@@ -5,6 +5,15 @@
 int main ()
 
 {
+ printf("======================================================================================================================\n");
+ printf("                                                NAME: MIHIR RAMI\n"                                   );
+ printf("                                                BRANCH:CS\n"                                            );
+ printf("                                                ER-NO.:CS25\n"                                          );
+ printf("                                                ESFP-1 PROJECT\n"                                        );
+ printf("                                                INFORMATION ABOUT UNIFORM OF ARMED FORCES\n"                                           );
+ printf("                                               For year 2022-2023\n"                                           );
+ printf("=======================================================================================================================\n");
+
 
 char id[50];
 
